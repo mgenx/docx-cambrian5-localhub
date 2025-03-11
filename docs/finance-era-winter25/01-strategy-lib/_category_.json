@@ -1,0 +1,8 @@
+{
+  "label": "Strategy Lib 01",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Collection of strategies for this era."
+  }
+}
