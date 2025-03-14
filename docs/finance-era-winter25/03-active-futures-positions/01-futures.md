@@ -9,7 +9,7 @@
 - stop loss placed: 20,000 `2025-03-13 12:40:40`
     - max loss calc  
     ![](./media/2025-03-13-12-44-53.png)
-
+    ![](./media/2025-03-14-00-52-43.png)
 ### Reasons
 - NQ in descending channel
 - cook over time
