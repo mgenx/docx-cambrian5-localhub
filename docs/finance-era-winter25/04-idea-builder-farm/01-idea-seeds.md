@@ -4,7 +4,8 @@
 - Plant hybrid option structures with a directional bias and high probable zones
 - Plant in numbers and let it flourish over time
 
-### Thread 01 | Tesla Case as of `2025-03-25 14:16:23`
+### Example | Tesla Case
+`2025-03-25 14:16:23`
 ![](./media/2025-03-25-14-13-05.png)
 Reasons:
 - Where is the directional outlook
@@ -31,11 +32,17 @@ Reasons:
 
 ---
 ## Idea: Just Sell put spreads or call spreads at the money, optionally with a landing strip
+![](./media/2025-03-26-23-51-55.png)
+> unmatched simplicity of a simple spread, plus optional theta gain at the money
+
 ![](./media/2025-03-26-23-01-05.png)
 
 ### Circumstances
 - direction is known or bold predictions where made (external sources)
 - easy setups are available
+### Reasoning
+- simplicity
+- efficient convenient dollar cost averaging
 
 ### Instructions
 - be on the look out and mine for easy setups based on support and resistance levels
@@ -87,6 +94,18 @@ You just created 23k for July (`2025-03-26 23:12:28`)
 ### Construction
 - Start with an iron butterfly, call butterfly or put butterfly
 - can be lopsided (not symmetric)
+
+---
+## Idea: Butterfly Huts, high probability zones
+### Reasoning
+- low loss
+- there is a high probability the the prices will oscillate through the zone
+### Construction
+- Start with an iron butterfly, call butterfly or put butterfly
+- can be lopsided (not symmetric)
+- can be iron condor based on calendar based
+
+![](./media/2025-03-26-23-48-27.png)
 
 ---
 ## Idea: Calendar, high probability zones
