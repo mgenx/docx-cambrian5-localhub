@@ -18,6 +18,7 @@ placed: `2025-03-27 11:17:37` | ET Main
 ![](./media/2025-03-27-11-17-43.png)
 
 ### AMZN | put call butterfly hybrid
+placed: `2025-03-27 11:17:37` | ET Main  
 ![](./media/2025-03-27-11-30-57.png)
 ![](./media/2025-03-27-11-31-24.png)
 
