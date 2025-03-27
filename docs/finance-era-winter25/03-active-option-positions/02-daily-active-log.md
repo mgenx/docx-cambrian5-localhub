@@ -26,3 +26,9 @@ placed: `2025-03-27 11:17:37` | ET Main
 placed: `2025-03-27 11:37:27` | Schwab
 ![](media/2025-03-27-11-37-17.png)
 
+### TSLA | Put Call Butterfly Hybrid
+placed: `2025-03-27 11:53:45` | etmain
+
+![](./media/2025-03-27-11-53-52.png)
+
+![](./media/2025-03-27-11-54-14.png)
