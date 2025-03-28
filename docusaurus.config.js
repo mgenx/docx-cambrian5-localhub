@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'DOCX Cambrian 5',
+  tagline: 'Notes hub for a cambrian explosion of ideas and thought in the Gen AI era!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
