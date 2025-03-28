@@ -133,3 +133,12 @@ You just created 23k for July (`2025-03-26 23:12:28`)
 
 ---
 
+## Idea: Enhanced Broken Butterfly | Put and Call
+### Reasons
+- better reward vs risk profile for put and call broke wings
+
+### Meta example
+`2025-03-28 08:18:44`
+![](./media/2025-03-28-08-18-38.png)
+
+---

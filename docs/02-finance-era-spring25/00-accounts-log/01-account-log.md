@@ -1,3 +1,17 @@
+## Mar 28 | Friday
+Ocean of red
+![](./media/2025-03-28-11-39-42.png)
+
+In deep red!
+
+### et ira `2025-03-28 11:19:34`
+![](media/2025-03-28-11-19-26.png)
+
+### etmain `2025-03-28 11:18:58`
+![](media/2025-03-28-11-18-49.png)
+
+![](./media/2025-03-28-10-05-08.png)
+
 ## Mar 27 | Thursday
 
 > It is a game of probabilities and possibilities.  
